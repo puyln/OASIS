@@ -2,10 +2,6 @@
 
 This repository provides a complete, end-to-end framework for classifying medical lesions using 3D Region of Interest (ROI) data. The core of this project is a classifier built upon the **Uniformer-B** model, an advanced architecture designed for high-performance video and volumetric data analysis.
 
-## Project Overview
-
-In the field of medical image analysis, accurately classifying 3D lesions from scans like CT or MRI is crucial for assisting clinical diagnosis. This project aims to provide a reproducible, high-performance solution that automatically learns discriminative features from 3D ROIs to deliver precise classification predictions.
-
 The framework covers the entire pipeline, from data preparation, model training, and cross-validation to inference and final result ensembling, providing researchers and developers with a solid foundation to build upon.
 
 ## Model Architecture: Uniformer-B
